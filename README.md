@@ -48,3 +48,6 @@ netflix_project/
     ├── sql_*.csv           (6 files, one per business question)
     └── charts/             (5 PNG visuals)
 ```
+
+## SQL Analysis
+Includes standalone SQL queries (`netflix_queries.sql`) covering business questions like content growth trends and country-genre breakdowns.
